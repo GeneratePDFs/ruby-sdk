@@ -34,3 +34,5 @@ Gemfile.lock
 
 # Ignore rspec examples
 spec/examples.txt
+
+generatepdfs-*.gem
