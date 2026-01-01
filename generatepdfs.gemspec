@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'generatepdfs'
   spec.version       = GeneratePDFs::VERSION
   spec.authors       = ['GeneratePDFs']
-  spec.email         = ['support@generatepdfs.com']
+  spec.email         = ['info@generatepdfs.com']
 
   spec.summary       = 'Ruby SDK for GeneratePDFs.com API'
   spec.description   = 'Ruby SDK for the GeneratePDFs.com API, your go-to place for HTML to PDF.'
